@@ -9,7 +9,7 @@ Jedis+SpringBoot+Shiro反序列化
 PS: 
 Exp太弱智了就不放了，网上找条链子改改打一下就行。
 
-想玩玩的，环境是跑在Docker里的，找到我Docker仓库pull就行
+想玩玩的，环境是跑在Docker里的，找到我Docker仓库pull就行。
 
 Doc:
  - src/
