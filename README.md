@@ -1,5 +1,6 @@
 ## CISCN 2022 FINAL Build
-简单的Java Web题，没啥知识点，请叫我缝合怪。
+
+给国赛简单出的Java Web题，没啥知识点，请叫我缝合怪。
 
 Jedis+SpringBoot+Shiro反序列化
  - [https://github.com/redis/jedis](https://github.com/redis/jedis)
